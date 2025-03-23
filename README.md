@@ -8,7 +8,8 @@
 5. Does MINE works on entropy calculation?
 
 **Take aways**
-1. 
+1. MINE can test the relative relationship of mutual information on 7-dimensional data with selected lr. Both NN with hidden size of 512 and 128 works.
+2. MINE cannot test the relative relationship of mutual information on 7-dimensional data with selected lr. Both NN with hidden size of 512 and 128 works.
 
 
 Paper:
