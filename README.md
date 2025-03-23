@@ -9,3 +9,14 @@
 
 **Take aways**
 1. 
+
+
+Paper:
+```
+@article{belghazi2018mine,
+  title={Mine: mutual information neural estimation},
+  author={Belghazi, Mohamed Ishmael and Baratin, Aristide and Rajeswar, Sai and Ozair, Sherjil and Bengio, Yoshua and Courville, Aaron and Hjelm, R Devon},
+  journal={arXiv preprint arXiv:1801.04062},
+  year={2018}
+}
+```
